@@ -19,3 +19,6 @@ vid.txt
 result_url.txt
 test*.jpg
 rc_raw.full.json
+push_retry.log
+push_retry.sh
+rc_raw.full.json
