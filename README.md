@@ -132,3 +132,11 @@ app.apk                 原始样本
 ## 免责
 
 仅用于安全研究与协议互操作性分析，产物不对外提供服务。上游凭证与内容版权归原厂商所有。
+
+---
+
+## 归档位置
+
+- 主仓库（目标）：`lza6/Kreivo-AI-Photo-Video-2API`
+- 即时镜像：`lza6/Umagic-Kreivo-APP-2api` 分支 **`kreivo-1.1.0-gateway`**
+  （同包名同集团的兄弟仓库，GitHub 建仓 abuse 限流期间先落到这里）
