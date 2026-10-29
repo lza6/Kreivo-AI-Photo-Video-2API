@@ -1,0 +1,21 @@
+# 样本与反编译产物（体积大 / 版权归原厂）
+app.apk
+*.apk
+unz/
+apktool_out/
+apktool.log
+
+# 凭证
+apikey.local
+.env
+*.local
+
+# 运行产物
+__pycache__/
+*.pyc
+server.log
+stress_video.log
+vid.txt
+result_url.txt
+test*.jpg
+rc_raw.full.json
