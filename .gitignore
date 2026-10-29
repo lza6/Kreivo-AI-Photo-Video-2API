@@ -22,3 +22,5 @@ rc_raw.full.json
 push_retry.log
 push_retry.sh
 rc_raw.full.json
+push_v*.sh
+push_v*.log
